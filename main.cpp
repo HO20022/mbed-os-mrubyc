@@ -5,7 +5,7 @@
 
 #include "mbed.h"
 
-#define WAIT_TIME_MS 1000 
+#define WAIT_TIME_MS 500 
 DigitalOut led1(LED1);
 
 int main()
