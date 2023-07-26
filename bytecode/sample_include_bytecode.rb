@@ -4,5 +4,5 @@
 
 while true
   puts "sample"
-  sleep 1
+  sleep 10
 end
